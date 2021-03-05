@@ -13,6 +13,10 @@ li:nth-child(3n) {
     border: solid;
 }
 
+li:nth-child(4n) {
+    border-style: solid;
+}
+
 li:hover {
     margin-left: 50px;
 }
